@@ -28,7 +28,7 @@
 									<div id="menu">
 										<ul>
 											<li><a href="index.html">Home</a></li>
-											<li><a href="generic.html">Generic</a></li>
+											<li><a href="index.html">Contact</a></li>
 										</ul>
 									</div>
 								</li>
@@ -100,10 +100,8 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<ul class="icons">
-							<li><a href="#" class="fa-brands-400.eot"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="fa-brands-400.svg"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="fa-brands-400.ttf"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="fa-brands-400.woff"><span class="label">Dribbble</span></a></li>
+							<li><a href="#" class="fa-brands-400.eot"><span class="label">Github</span></a></li>
+							<li><a href="#" class="fa-brands-400.svg"><span class="label">Linkedin</span></a></li>
 							<li><a href="#" class="fa-brands-400.woff2"><span class="label">Email</span></a></li>
 						</ul>
 						<ul class="copyright">
