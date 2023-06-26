@@ -43,7 +43,7 @@
 							<p>Computational Biologist<br />
 							Machine Learning Enthusiast<br />
 							Data Analyst</p>
-							<ul class="actions special">
+							<ul class="wrapper style3">
 								<li><a href="#" class="button primary">Activate</a></li>
 							</ul>
 						</div>
