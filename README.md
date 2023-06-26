@@ -72,7 +72,7 @@
 				<!-- Two -->
 					<section id="two" class="wrapper alt style2">
 						<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="Gaya3.jpg" alt="" /></div><div class="content">
 							</div>
 						</section>
 						<section class="spotlight">
