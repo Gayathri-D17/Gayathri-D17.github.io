@@ -28,7 +28,7 @@
 									<div id="menu">
 										<ul>
 											<li><a href="index.html">Home</a></li>
-	                                                                                <li><a href="#three" class="more scrolly">Contact</a></li>
+	                                                                                <li><a href="#one" class="more scrolly">Contact</a></li>
 										</ul>
 									</div>
 								</li>
