@@ -101,8 +101,8 @@
 					<footer id="footer">
 						<ul class="icons">
 							<li><a href="https://github.com/Gayathri-D17" class="fa-brands-400.eot"><span class="label">Github</span></a></li>
-							<li><a href="www.linkedin.com/in/gayathri-d-35a940258" class="fa-brands-400.svg"><span class="label">Linkedin</span></a></li>
-							<li><a href="gaya3d17@gmail.com" class="fa-brands-400.woff2"><span class="label">Email</span></a></li>
+							<li><a href="https://www.linkedin.com/in/gayathri-d-35a940258" class="fa-brands-400.svg"><span class="label">Linkedin</span></a></li>
+							<li><a href=mailto:"gaya3d17@gmail.com" class="fa-brands-400.woff2"><span class="label">Email</span></a></li>
 						</ul>
 						<ul class="copyright">
 							<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
