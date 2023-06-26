@@ -55,8 +55,11 @@
 						<div class="inner">
 							<header class="major">
 								<h2>About</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+								<p>I am a computational biology student with a focus on machine learning. Combining my<br />
+								passion for biology and data-driven approaches, I delve into the fascinating world of<br /> 
+								analyzing biological data using computational techniques. My studies revolve around<br />
+								leveraging machine learning algorithms and statistical models to gain insights from<br />
+								complex biological datasets.</p>
 							</header>
 							<ul class="icons major">
 								<li><span class="icon fa-gem major style1"><span class="label">Lorem</span></span></li>
