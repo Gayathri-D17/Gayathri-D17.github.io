@@ -76,13 +76,13 @@
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="Computational Biology.jpg" alt="" /></div><div class="content">
 								<h2>Computational Biology</h2>
 								<p>The field which combine biological data, algorithms and computer science to gain insights into complex biological processes and systems. It involves the development and application of computational methods to analyze large-scale biological data, understand molecular mechanisms, and drive advancements in fields such as genomics, drug discovery, and personalized medicine.</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="Machine Learning.jpg" alt="" /></div><div class="content">
 								<h2>Machine Learning</h2>
 								<p>Subset of artificial intelligence that focuses on enabling computers to learn and make predictions or decisions without being explicitly programmed. It involves developing algorithms and models that can learn from data, identify patterns, and make data-driven predictions or take actions based on the learned knowledge.</p>
 							</div>
