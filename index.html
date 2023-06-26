@@ -28,6 +28,7 @@
 									<div id="menu">
 										<ul>
 											<li><a href="index.html">Home</a></li>
+	                                                                                 <a href="#one" class="more scrolly">Learn More</a>
 											<li><a href="index.html">Contact</a></li>
 										</ul>
 									</div>
