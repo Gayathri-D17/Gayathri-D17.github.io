@@ -69,10 +69,12 @@
 					</section>
 
 				<!-- Two -->
-					<section id="two" class="wrapper alt style2">
+					<section id="two" class="wrapper style3">
 						<section class="spotlight">
+      
 							<div class="image"><img src="Gaya3.jpg" alt="" /></div><div class="content">
 							</div>
+       
 						</section>
 						<section class="spotlight">
 							<div class="image"><img src="Computational Biology.jpeg" alt="" /></div><div class="content">
