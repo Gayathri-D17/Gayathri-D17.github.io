@@ -1,4 +1,4 @@
-# Gayathri-D17.github.io
+
 <!DOCTYPE HTML>
 <!--
 	Spectral by HTML5 UP
@@ -72,7 +72,7 @@
 					<section id="two" class="wrapper style3">
 						<section class="spotlight">
       
-							<div class="image"><img src="Gaya3.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="gaya.jpg" alt="" /></div><div class="content">
 							</div>
        
 						</section>
